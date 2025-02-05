@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shimsadil
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on automation projects
 - 📫 How to reach me: email:shimsadil@gmail.com
 
 <!---
